@@ -30,7 +30,6 @@ app.get("/", function (req, res) {
   return res.render("home", {
     startingContent: homeStartingContent,
     posts: post1
-    // console.log(posts)
     });
   } k()
 });
@@ -53,7 +52,6 @@ app.post("/compose", function(req, res){
     content: req.body.postBody
   });
 
-  // posts.push(post);
   post.save()
 
   return res.redirect("/");
@@ -74,7 +72,7 @@ app.get("/posts/:postName", function(req, res){
           title: post.title,
           content: post.content
         });
-        return res.redirect("/posts/"+requestedTitle)
+        // return res.redirect("/posts/"+requestedTitle) this can also be used
       }
     });
   }k()
