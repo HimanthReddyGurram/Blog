@@ -4,9 +4,9 @@ const ejs = require("ejs");
 const _ = require("lodash");
 const mongoose = require("mongoose");
 
-const homeStartingContent = "Without immediate emission reductions, the total and irreversible loss of mountain glaciers around the world will be locked in. With the climate crisis already devastating communities across the Hindu Kush Himalaya, and 2 billion people in Asia reliant on waters held in these mountains alone, for food and water security, ICIMOD has launched #SaveOurSnow a global advocacy campaign to build the public and political will for faster action and greater ambition. We launched #SaveOurSnow on May 29, during celebrations to mark the 70th anniversary of the first ascent of Mount Everest.";
-const aboutContent = "#SaveOurSnow brings together three key communities that are closest to Earth’s cryosphere, and most deeply impacted by the imminent and irreversible loss of its snow and ice – mountain communities, athletes, and scientists – to forge an unusual lobbying bloc too powerful to ignore.";
-const contactContent = "Contact our website https://hkh.icimod.org/saveoursnow/ for further details.";
+const homeStartingContent = "Web development, also known as website development, refers to the tasks associated with creating, building, and maintaining websites and web applications that run online on a browser. It may, however, also include web design, web programming, and database management.Web development is closely related to the job of designing the features and functionality of apps (web design). The term development is usually reserved for the actual construction of these things (that is to say, the programming of sites).The basic tools involved in web development are programming languages called HTML (Hypertext Markup Language), CSS (Cascading Style Sheets), and JavaScript";
+const aboutContent = "This website is used to create different blogs which can be composed and viewed by different users.";
+const contactContent = "Mr.Gurram Himanth Reddy. (phone : +916281323978) (mail : kimhkimhk@gmail.com)";
 
 const app = express();
 
