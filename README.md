@@ -1,5 +1,6 @@
 # Blog
 This website is used to create different blogs which can be composed and viewed by different users.
+(This website has a backend so the data doesnot get lost when refreshing websites or servers.)
 
 ## Technologies
 * Javascript
