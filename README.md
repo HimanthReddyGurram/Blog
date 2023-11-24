@@ -17,6 +17,8 @@ Start your mongoDB process on some terminal preferably Hyper.
 
 If you do not have mongodb, you can get it from [https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/)
 
+If you want to start working on your project right away, you might want to try the following commands:
+
 From your command line:
 ```bash
 # Clone this repository
