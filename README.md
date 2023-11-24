@@ -22,10 +22,10 @@ If you want to start working on your project right away, you might want to try t
 From your command line:
 ```bash
 # Clone this repository
-git clone https://github.com/HimanthReddyGurram/Blog.git
+git clone https://github.com/HimanthReddyGurram/Blogs.git
 
 # Go into the repository
-$ cd Blog.git
+$ cd Blogs.git
 
 # Install dependencies
 npm install
